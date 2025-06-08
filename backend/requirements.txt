@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pandas
+numpy
+yfinance
+torch
+transformers
+scikit-learn
+requests
+python-multipart
+python-dotenv
+pydantic
+Flask
+tensorflow==2.17.0
